@@ -7,7 +7,7 @@
         "public/icons/*"
       ],
       "@/illustrations/*": [
-        "public/illustrations/*"
+        "renderer/public/illustrations/*"
       ],
       "@/components/*": [
         "renderer/src/components/*"
