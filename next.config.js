@@ -57,5 +57,7 @@ const nextConfig = {
   },
   // webpack5: true, available as default from v11
   // externals: [nodeExternals()],
+  // Output for the Dockerfile
+  output: "standalone",
 };
 module.exports = nextConfig;
